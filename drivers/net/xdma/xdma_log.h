@@ -1,0 +1,1 @@
+#define PMD_DRV_LOG(level, fmt, args...)  RTE_LOG(level, PMD, "%s(): " fmt "\n", __func__, ## args)
