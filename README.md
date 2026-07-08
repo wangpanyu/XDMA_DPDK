@@ -150,7 +150,7 @@ the port has banded to igb_uio successfully
 ./build/xdma_testapp
 ```
 
-## Cite us
+<!-- ## Cite us
 
 If you find this project useful, please cite our paper:
 
@@ -166,5 +166,5 @@ Panyu Wang, Yazhou Wang, Congwu Zhang, Bibo Yang, Mingyu Chen, Yungang Bao and K
   booktitle = {2026 36th International Conference on Field-Programmable Logic and Applications (FPL)},
   author = {Panyu Wang, Yazhou Wang, Congwu Zhang, Bibo Yang, Mingyu Chen, Yungang Bao and Ke Zhang},
   year = {2026}
-}
+} -->
 ```
